@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routess
+| Web Routesss
 |--------------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
